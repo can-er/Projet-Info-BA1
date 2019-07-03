@@ -1,5 +1,5 @@
 # Technical Building Management
-#### writen by : HEMELEERS emile, IDRISSI sami , KORKUT caner ,ZEUKENG ronald
+#### writen by : HEMELEERS emile, IDRISSI sami, KORKUT caner, ZEUKENG ronald
 ## Project User Manual
 First execute the code(main.py) then press the button management system to choose the floor.
 
